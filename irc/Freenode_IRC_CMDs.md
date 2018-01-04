@@ -73,3 +73,20 @@
 ```
 /msg NickServ VACATION
 ```
+
+
+
+### OpenStack Channels
+
+```
+/join #openstack-neutron
+/join #openvswitch
+/join #openstack-nova
+/join #openstack-meeting
+/join #openstack-meeting-3
+/join #openstack-meeting-4
+/join #openstack-meeting-alt
+/join #openstack-meeting-alt
+/join #openstack-neutron-ovn
+/join #openstack-sdks
+```
